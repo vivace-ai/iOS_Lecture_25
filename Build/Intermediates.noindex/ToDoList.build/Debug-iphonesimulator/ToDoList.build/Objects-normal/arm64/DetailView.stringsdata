@@ -1,0 +1,24 @@
+{
+  "source": "/Users/vivace/Downloads/ToDoList-SwiftData-main/ToDoList/DetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "You Are a Swifty Legend!\nAnd you passed over the value %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Get Back!",
+        "location": {
+          "startingColumn": 60,
+          "startingLine": 29
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>C22DAD98-1AE1-46C7-A9DE-21B83B40CB72</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C22DAD98-1AE1-46C7-A9DE-21B83B40CB72.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ToDoList project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ToDoList</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) ToDoList</string>
+			<key>timeStartedRecording</key>
+			<real>761503796.09741604</real>
+			<key>timeStoppedRecording</key>
+			<real>761503799.03561103</real>
+			<key>title</key>
+			<string>Build (Automatic) ToDoList</string>
+			<key>uniqueIdentifier</key>
+			<string>C22DAD98-1AE1-46C7-A9DE-21B83B40CB72</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
