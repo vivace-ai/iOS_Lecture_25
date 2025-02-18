@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-Target 'ToDoList' in project 'ToDoList' (no dependencies)
-Target 'ToDoList' in project 'ToDoList' (no dependencies)
