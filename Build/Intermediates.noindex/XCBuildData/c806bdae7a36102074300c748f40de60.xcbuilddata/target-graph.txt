@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'ToDoList' in project 'ToDoList' (no dependencies)
